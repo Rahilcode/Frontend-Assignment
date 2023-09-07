@@ -1,8 +1,5 @@
-# React + Vite
+# FrontEnd using React Js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A front end assignment using react js, chart js and ant design
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="955" alt="Assignment" src="https://github.com/Rahilcode/Frontend-Assignment/assets/73123454/5aaf7bce-342d-4134-9c11-b051f6e4d6ea">
